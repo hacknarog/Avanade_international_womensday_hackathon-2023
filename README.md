@@ -1,2 +1,3 @@
-# Avanade_international_womensday_hackathon-2023
-EmbracingEquity this International Women's Day
+# YOUngly
+## An App that keeps you YOUng and embrace the success in YOU
+Embracing Equity in this International Women's Day
