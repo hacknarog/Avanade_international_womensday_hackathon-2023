@@ -37,4 +37,5 @@ Doyenness Healthcare/ Fitness provides users to manage their wellbeing, both in 
 Doyenness Career Zone enables user to build, enhance, support each other by recruiting and joining into varities of opportunities 
 
 [Figma Design](https://www.figma.com/file/o4nJ3i3LySVdYksCEdOcYI/Doyennes?t=xcjWlO63wTrAeRVl-6)
+[Doyenness Slides](https://docs.google.com/presentation/d/19WDKV7iVC-7RHasj2ZCQtL-11Y0DCz1VZBsubnh2vnw/edit?usp=sharing)
 
